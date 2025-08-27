@@ -24,7 +24,6 @@ Built a simple bash script to create multiple users in seconds 🚀
  • Prevents duplicates & logs all actions
 
 Why? - Saves manual work for sysadmins, dev teams, or training labs.
-GitHub: https://lnkd.in/dDmBGvhm
 
 Run it in 2 steps:
 chmod +x user_create.sh
